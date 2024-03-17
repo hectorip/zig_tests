@@ -1,2 +1,3 @@
 # zig_tests
-Learning Zig 
+Learning Zig with little programs and projects
+
